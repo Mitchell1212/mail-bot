@@ -1,0 +1,11 @@
+{
+  "token": "MzMyODY2MzgxMDY4MzY5OTIw.DImuHw.euwsFP-ubBnWYfniTEjGZyHV_es",
+  "mailGuildId": "332864221832413195",
+  "mainGuildId": "332202157744979996",
+
+  "prefix": "!",
+  "status": "Message me for help!",
+  "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible. Unless we're offline that is..",
+  "alwaysReply": false,
+  "alwaysReplyAnon": true
+}
